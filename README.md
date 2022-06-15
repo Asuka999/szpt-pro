@@ -1,5 +1,7 @@
 # SZPT自动健康填报
 
+👉项目开发中...👈，随手给个🌟🌟🌟star
+
 
 
 ## 特点
@@ -20,7 +22,15 @@
 
 ##	使用
 
+#### linux
 
+```shell
+wget https://github.com/Asuka999/szpt-pro/releases/download/V1.0/szptPro-linux-386.tar
+tar -xvf ./szptPro-linux-386.tar
+cd ./szptPro
+# edit user.json
+nohop ./szptPro & 
+```
 
 
 
@@ -32,6 +42,7 @@
 
 
 <!--
+
 ##     加入开发
 
  👏欢迎大家参与开发
